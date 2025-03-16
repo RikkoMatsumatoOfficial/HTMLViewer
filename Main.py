@@ -1,14 +1,12 @@
 import tkinter as tkint
-from tkhtmlview import HTMLLabel
-import configparser as c
+from tkhtmlview import HTMLText, RenderHTML
 import os
-config = c.ConfigParser()
 class GUI():
     def Show():
         config.read(os.getcwd() + "\\ConfigHTML.ini")
         root = tkint.Tk()
-        root.geometry("650x650")
-        html_label = HTMLLabel(root, html=config['HTML_CONFIG']['Output'])
+        root.geometry("660x660")
+        html_label = HTMLText(root, html=RenderHTML(file="{}".format("HelloWorld.html")))
         html_label.pack(fill="both", expand=True)
         html_label.fit_height()
         root.mainloop()
