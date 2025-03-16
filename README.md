@@ -4,7 +4,7 @@ This is My First Project for HTML(mshta.exe is now deprecated because this progr
 > [!WARNING]
 > In Python Version of this Program, HTML is restricted because author didn't update tkinterhtml!!!
 > 
-> Soon Will be C++ Version of This Program!!! Thanks!!!
+> Soon Will be C++ Version of This Program!!! Thanks for reading this warning!!!
 
 ## Donations
 
