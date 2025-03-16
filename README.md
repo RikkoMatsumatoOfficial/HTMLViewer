@@ -1,5 +1,5 @@
 # HTMLViewer
-This is My First Project for HTML(due mshta.exe is now deprecated because this program checked **GUID**)!!! So Enjoy to use this!!!
+This is My First Project for HTML(mshta.exe is now deprecated because this program checked **GUID**)!!! So Enjoy to use this!!!
 
 > [!WARNING]
 > In Python Version of this Program, HTML is restricted because author didn't update tkinterhtml!!!
