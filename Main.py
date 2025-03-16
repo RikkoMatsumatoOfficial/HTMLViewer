@@ -7,6 +7,7 @@ class GUI():
     def Show():
         config.read(os.getcwd() + "\\ConfigHTML.ini")
         root = tkint.Tk()
+        root.geometry("650x650")
         html_label = HTMLLabel(root, html=config['HTML_CONFIG']['Output'])
         html_label.pack(fill="both", expand=True)
         html_label.fit_height()
