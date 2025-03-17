@@ -12,3 +12,5 @@ This is My First Project for HTML(mshta.exe is now deprecated because this progr
 
 > **_Monero Wallet:_** 
 > monero:49SVX8xZ3TCAqKDqW4Ybt1FPTZuMF4SVf2XQWamHZVYddk6pViYJbgrY911RJ6CgFm14vQUuH8Zv5Qouxb6U3YMG1jHQsRq?recipient_name=RikkoMatsumato
+
+[Ko-Fi](https://ko-fi.com/rikkomatsumato)
