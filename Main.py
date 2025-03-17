@@ -3,7 +3,6 @@ from tkhtmlview import HTMLText, RenderHTML
 import os
 class GUI():
     def Show():
-        config.read(os.getcwd() + "\\ConfigHTML.ini")
         root = tkint.Tk()
         root.geometry("660x660")
         html_label = HTMLText(root, html=RenderHTML(file="{}".format("HelloWorld.html")))
