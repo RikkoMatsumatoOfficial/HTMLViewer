@@ -6,11 +6,9 @@ This is My First Project for HTML(mshta.exe is now deprecated because this progr
 > 
 > Soon Will be C++ and C# Version of This Program!!! Thanks for reading this warning!!!
 
+[Join To My Discord Server](https://discord.gg/rikkomatsumato)
+
 ## Donations
-
-[DonationAlerts](https://donationalerts.com/r/rikkomatsumato)
-
-> **_Monero Wallet:_** 
-> monero:49SVX8xZ3TCAqKDqW4Ybt1FPTZuMF4SVf2XQWamHZVYddk6pViYJbgrY911RJ6CgFm14vQUuH8Zv5Qouxb6U3YMG1jHQsRq?recipient_name=RikkoMatsumato
-
 [LiberaPay](https://liberapay.com/RikkoMatsumatoOfficial/donate)
+
+**BTC Wallet Address**: bc1qz987mqatjrhuurme49sleq75a80atysgyska9e
